@@ -18,9 +18,7 @@ Automóvil reservado
 
 Viaje cancelado
 
-📄 Documento (PDF):
-👉 Sube aquí tu archivo y coloca el enlace:
-[Lista de comprobación — Diseño](./NombreDeTuArchivo.pdf)
+
 
 2. Lista de comprobación “Método de pago” y “Agregar tarjeta”
 
@@ -32,8 +30,6 @@ Análisis de valores límite
 
 Escenarios positivos y negativos
 
-📄 Documento (PDF):
-👉 [Método de pago y Agregar tarjeta](./NombreDeTuArchivo.pdf)
 
 3. Casos de prueba — Botón “Reservar”
 
@@ -45,8 +41,6 @@ Habilitación y deshabilitación
 
 Ventanas emergentes relevantes
 
-📄 Documento (PDF):
-👉 [Casos de prueba — Botón Reservar](./NombreDeTuArchivo.pdf)
 
 4. Casos de prueba — Función de reserva de automóvil
 
@@ -60,8 +54,6 @@ Estados del viaje
 
 Validaciones clave
 
-📄 Documento (PDF):
-👉 [Casos de prueba — Reserva de automóvil](./NombreDeTuArchivo.pdf)
 
 5. Ejecución de pruebas + Reporte de bugs (Jira)
 
@@ -71,20 +63,7 @@ Las pruebas de diseño se realizaron en ambos entornos; la lógica funcional sol
 📌 Se marcaron los resultados como APROBADO / NO APROBADO.
 📌 Los casos No Aprobados fueron reportados en Jira.
 
-📄 Enlaces a los bugs (Jira):
-👉 Pega aquí tus URLs cuando los tengas listos.
+📄 Documento: 👉 [Google Sheets](https://docs.google.com/spreadsheets/d/1LKhUUE7n30VlxGyH2LYNgUPGozVcn3pG/edit?usp=drive_link&ouid=107144196103847406292&rtpof=true&sd=true)
 
-6. Conclusiones finales
 
-En esta sección se incluyó un análisis personal como usuario y tester, resumiendo:
-
-Qué partes de la funcionalidad fueron probadas
-
-Qué errores se encontraron
-
-Si el producto está listo o no para liberarse
-
-Recomendaciones al equipo
-
-📄 Documento (Google Docs):
-👉 [Conclusiones](URL-a-tu-doc)
+ 
